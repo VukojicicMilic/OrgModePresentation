@@ -1,4 +1,4 @@
-# OrgModePresentation
+# OrgModePresentation (omp)
 Converts Emacs .org files into online presentations
 
 How to use:
